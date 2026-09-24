@@ -14,7 +14,7 @@
 | **IP interface**         | Ethernet/TCP-IP communication using an IP address                                                                     |
 | **via SSH IP interface** | The tester connects to a target device through its IP address and executes commands or communicates with its software |
 
-For example:
+For diagram:
 
 ```text
                 Ethernet
@@ -79,11 +79,9 @@ The software could perform:
 
 ---
 
-# 3. Example real production test
+# 3. Production test
 
-Suppose you're testing a **power electronics PCBA**.
-
-You need to verify:
+Need to verify:
 
 * Input voltage
 * Output voltage
