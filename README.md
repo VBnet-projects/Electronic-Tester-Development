@@ -41,7 +41,7 @@ and then run commands on the DUT controller:
 
 ---
 
-## 2. What would you actually develop?
+## 2. What actually develop :
 
 An electronic tester might look like:
 
@@ -191,9 +191,9 @@ they probably mean:
 
 ---
 
-# 5. Example C# implementation
+# 5. C# implementation
 
-For a Windows-based tester, C# could use an SSH library such as SSH.NET.
+For a Windows-based tester, C# use an SSH library such as SSH.NET.
 
 Conceptually:
 
@@ -244,9 +244,9 @@ else
 
 ---
 
-# 6. Example LabVIEW implementation
+# 6. LabVIEW implementation
 
-In LabVIEW, the architecture could be:
+In LabVIEW, the architecture:
 
 ```text
                  LabVIEW
